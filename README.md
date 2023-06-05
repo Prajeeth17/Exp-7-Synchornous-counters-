@@ -102,7 +102,7 @@ endmodule
 ### Up Counter:
 ![up](/uc-td.png)
 ### Down Counter:
-![down](/dc-rtl.jpg)
+![down](/dc-td.png)
 
 ## TRUTH TABLE 
 
